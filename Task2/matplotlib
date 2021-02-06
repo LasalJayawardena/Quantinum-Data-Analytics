@@ -1,0 +1,26 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "import seaborn as sns; sns.set()\n",
+    "import plotly.graph_objects as go\n",
+    "import plotly.express as px\n",
+    "import plotly \n",
+    "import matplotlib.pyplot as plt\n",
+    "import re\n",
+    "from scipy import stats\n",
+    "\n",
+    "%notebook matplotlib"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
